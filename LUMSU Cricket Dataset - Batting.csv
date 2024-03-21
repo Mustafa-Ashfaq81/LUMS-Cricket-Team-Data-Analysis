@@ -1,0 +1,167 @@
+Match ID,Batter,Runs,Balls Played,How Out,Batting Position,Captian Name,Winner,Bat First,Extra Runs,Target Score
+1,owais,10,11,caught,1,Naimat (1),1,1,19,197
+1,adeen,6,8,caught,2,Naimat,1,1,19,197
+1,ahmed,26,15,caught,3,Naimat,1,1,19,197
+1,mustafa,4,5,caught,4,Naimat,1,1,19,197
+1,moeez,18,29,caught,5,Naimat,1,1,19,197
+1,naimat,85,54,not out,6,Naimat,1,1,19,197
+1,mahad,44,36,caught,7,Naimat,1,1,19,197
+1,umar,4,4,not out,8,Naimat,1,1,19,197
+2,mustafa,53,40,caught,1,Mustafa (2),0,2,5,246
+2,adeen,43,38,run out,2,Mustafa,0,2,5,246
+2,usman,45,43,bowled,3,Mustafa,0,2,5,246
+2,ali,35,36,caught,4,Mustafa,0,2,5,246
+2,awais,29,20,caught,5,Mustafa,0,2,5,246
+2,zohaib,15,10,bowled,6,Mustafa,0,2,5,246
+3,awais,8,11,caught,1,Naimat (3),1,1,13,151
+3,yahya,63,65,caught,2,Naimat,1,1,13,151
+3,shoaib,1,5,caught,3,Naimat,1,1,13,151
+3,moiz,6,11,not out,4,Naimat,1,1,13,151
+3,haris,8,5,caught,5,Naimat,1,1,13,151
+3,wahab,11,14,caught,6,Naimat,1,1,13,151
+3,zahid,37,25,caught,7,Naimat,1,1,13,151
+3,adnan,0,1,caught,8,Naimat,1,1,13,151
+3,hashir,17,15,run out,9,Naimat,1,1,13,151
+4,umer,22,26,retired out,1,naimat(4),1,2,11,176
+4,saroya,58,51,caught,2,naimat,1,2,11,176
+4,owais,74,52,caught,3,naimat,1,2,11,176
+4,naimat,13,9,caught,4,naimat,1,2,11,176
+4,kumail,7,10,caught,5,naimat,1,2,11,176
+4,yahya,1,2,not out,6,naimat,1,2,11,176
+4,zamin,0,3,not out,7,naimat,1,2,11,176
+5,mustafa,54,42,retired out,1,naimat(5),0,2,21,238
+5,waheed,7,8,caught,2,naimat,0,2,21,238
+5,arhum,23,25,caught,3,naimat,0,2,21,238
+5,rafay,5,16,caught,4,naimat,0,2,21,238
+5,hamza,9,22,retired out,5,naimat,0,2,21,238
+5,umar,30,17,not out,6,naimat,0,2,21,238
+5,yahya,2,8,not out,7,naimat,0,2,21,238
+5,haris,13,15,caught,8,naimat,0,2,21,238
+5,waheed,23,14,caught,9,naimat,0,2,21,238
+5,kamran,32,15,caught,10,naimat,0,2,21,238
+5,hammad,2,4,caught,11,naimat,0,2,21,238
+6,adeen,34,32,caught,1,Adeen(6),0,1,23,182
+6,muzammil,11,17,bowled,2,Adeen,0,1,23,182
+6,nimat,16,19,caught,3,Adeen,0,1,23,182
+6,huzaifa,32,29,caught,4,Adeen,0,1,23,182
+6,ali,50,35,caught,5,Adeen,0,1,23,182
+6,nail,32,30,caught,6,Adeen,0,1,23,182
+6,rehan,6,11,not out,7,Adeen,0,1,23,182
+6,azeem,1,2,not out,8,Adeen,0,1,23,182
+7,adeen ,3,4,caught,1,naimat(7),1,1,8,213
+7,shehrayar,55,35,retired out,2,naimat,1,1,8,213
+7,kamran,3,5,caught,3,naimat,1,1,8,213
+7,naimat,100,61,not out,4,naimat,1,1,8,213
+7,hamza,52,43,run out,5,naimat,1,1,8,213
+7,hadi,,3,not out,6,naimat,1,1,8,213
+8,mustafa,10,6,bowled,1,Mustafa(8),1,1,5,89
+8,adeen,29,21,caught,2,Mustafa,1,1,5,89
+8,hadi,3,7,caught,3,Mustafa,1,1,5,89
+8,kamran,0,3,run out,4,Mustafa,1,1,5,89
+8,naimat,0,1,bowled,5,Mustafa,1,1,5,89
+8,waheed,4,14,caught,6,Mustafa,1,1,5,89
+8,yahya,24,29,caught,7,Mustafa,1,1,5,89
+8,nail,3,2,bowled,8,Mustafa,1,1,5,89
+8,yahya,3,4,caught,9,Mustafa,1,1,5,89
+8,kabir,2,3,run out,10,Mustafa,1,1,5,89
+8,altamash,0,1,not out,11,Mustafa,1,1,5,89
+9,mustafa,0,3,caught,1,Naimat(9),1,2,16,127
+9,syed omar,36,29,bowled,2,Naimat,1,2,16,127
+9,sheheryar,64,37,not out,3,Naimat,1,2,16,127
+9,mahad,5,4,not out,4,Naimat,1,2,16,127
+10,sheheryar,7,5,bowled,1,Naimat(10),1,1,11,180
+10,omar,7,6,caught,2,Naimat,1,1,11,180
+10,mahad,70,27,lbw,3,Naimat,1,1,11,180
+10,naimat,18,16,caught,4,Naimat,1,1,11,180
+10,saroya,50,30,not out,5,Naimat,1,1,11,180
+10,faheem,0,1,bowled,6,Naimat,1,1,11,180
+10,hasan,11,12,bowled,7,Naimat,1,1,11,180
+10,abdul rehman,11,10,caught,8,Naimat,1,1,11,180
+10,naik alam,3,4,lbw,9,Naimat,1,1,11,180
+10,kabir,3,2,not out,10,Naimat,1,1,11,180
+11,imran,50,34,stumped,1,Mustafa(11),0,1,15,144
+11,mustafa,47,33,caught,2,Mustafa,0,1,15,144
+11,Adeen,14,12,not out,3,Mustafa,0,1,15,144
+11,omer,0,1,caught,4,Mustafa,0,1,15,144
+11,arsh,4,7,not out,5,Mustafa,0,1,15,144
+12,sheheryar,10,5,run out,1,Mustafa(12),1,1,30,164
+12,omar,52,37,caught,2,Mustafa,1,1,30,164
+12,mustafa,7,5,caught,3,Mustafa,1,1,30,164
+12,mahad,20,18,caught,4,Mustafa,1,1,30,164
+12,saroya,60,30,not out,5,Mustafa,1,1,30,164
+12,faheem,6,4,bowled,6,Mustafa,1,1,30,164
+12,hassan,2,2,lbw,7,Mustafa,1,1,30,164
+12,abdul rehman,7,8,not out,8,Mustafa,1,1,30,164
+13,iftikhar,17,10,caught,1,Naimat(13),0,0,16,181
+13,imran,36,31,caught,2,Naimat,0,0,16,181
+13,Naimat,77,44,not out,3,Naimat,0,0,16,181
+13,ahmed,2,4,caught,4,Naimat,0,0,16,181
+13,waqas,6,6,caught,5,Naimat,0,0,16,181
+13,abdullah,2,3,caught,6,Naimat,0,0,16,181
+13,shahid,27,9,bowled,7,Naimat,0,0,16,181
+13,qaiser,0,1,not out,8,Naimat,0,0,16,181
+14,qaiser,0,1,bowled,1,adeen(14),0,0,12,261
+14,adeen,74,49,not out,2,adeen,0,0,12,261
+14,umer,0,1,lbw,3,adeen,0,0,12,261
+14,waqas,0,2,lbw,4,adeen,0,0,12,261
+14,ahmed,14,8,run out,5,adeen,0,0,12,261
+14,arsh,3,4,caught,6,adeen,0,0,12,261
+14,bilal,9,7,caught,7,adeen,0,0,12,261
+14,kamran,28,15,bowled,8,adeen,0,0,12,261
+14,ubaidullah,2,2,caught,9,adeen,0,0,12,261
+14,umer ,9,8,bowled,10,adeen,0,0,12,261
+14,chand,0,1,caught,11,adeen,0,0,12,261
+15,imran,100,60,not out,1,naimat(15),1,2,15,154
+15,kamran,13,12,lbw,2,naimat,1,2,15,154
+15,naimat,21,14,caught,3,naimat,1,2,15,154
+15,umer,10,6,not out,4,naimat,1,2,15,154
+17,sheheryar,20,11,bowled,1,adeen(17),0,0,7,136
+17,syed omar,18,13,caught,2,adeen,0,0,7,136
+17,mustafa,23,26,bowled,3,adeen,0,0,7,136
+17,mahad,1,2,caught,4,adeen,0,0,7,136
+17,saroya,39,27,lbw,5,adeen,0,0,7,136
+17,naimat,6,9,caught,6,adeen,0,0,7,136
+17,hadi,3,2,caught,7,adeen,0,0,7,136
+17,adeen,1,2,bowled,8,adeen,0,0,7,136
+17,talal,11,8,not out,9,adeen,0,0,7,136
+17,naik  ,2,2,bowled,10,adeen,0,0,7,136
+18,mahad,48,33,run out,1,naimat(18),1,1,14,188
+18,subhan,45,39,caught,2,naimat,1,1,14,188
+18,saroya,61,43,caught,3,naimat,1,1,14,188
+18,naimat,11,16,not out,4,naimat,1,1,14,188
+18,hadi,23,13,not out,5,naimat,1,1,14,188
+19,sherry,12,9,bowled,1,hadi(19),1,1,0,131
+19,omar azeem,39,29,bowled,2,hadi,1,1,0,131
+19,ilyas,15,18,retired out,3,hadi,1,1,0,131
+19,omar leftie,7,8,bowled,4,hadi,1,1,0,131
+19,saroya,40,30,not out,5,hadi,1,1,0,131
+19,ashfaq,18,19,not out,6,hadi,1,1,0,131
+20,sheheryar,20,11,bowled,1,mustafa(20),1,1,21,124
+20,syed omar,18,13,caught,2,mustafa,1,1,21,124
+20,mustafa,23,26,bowled,3,mustafa,1,1,21,124
+20,mahad,1,2,caught,4,mustafa,1,1,21,124
+20,saroya,39,27,lbw,5,mustafa,1,1,21,124
+20,naimat,6,9,caught,6,mustafa,1,1,21,124
+20,hadi,3,2,caught,7,mustafa,1,1,21,124
+20,adeen,1,2,bowled,8,mustafa,1,1,21,124
+20,talal,11,8,not out,9,mustafa,1,1,21,124
+20,naik,2,2,bowled,10,mustafa,1,1,21,124
+21,omar azeem,24,19,caught,1,naimat(21),0,1,13,173
+21,mustafa,38,24,caught,2,naimat,0,1,13,173
+21,mahad,19,13,bowled,3,naimat,0,1,13,173
+21,hassan,22,16,bowled,4,naimat,0,1,13,173
+21,adeen,2,3,bowled,5,naimat,0,1,13,173
+21,saroya,12,10,caught,6,naimat,0,1,13,173
+21,umar leftie,32,19,not out,7,naimat,0,1,13,173
+21,naimat,2,3,run out,8,naimat,0,1,13,173
+22,sheheryar,17,20,run out,1,mustafa(22),0,2,24,186
+22,omar,6,7,lbw,2,mustafa,0,2,24,186
+22,mustafa,38,40,run out,3,mustafa,0,2,24,186
+22,mahad,29,18,caught,4,mustafa,0,2,24,186
+22,adeen,38,36,bowled,5,mustafa,0,2,24,186
+22,saroya,29,25,run out,6,mustafa,0,2,24,186
+22,naimat,10,15,caught,7,mustafa,0,2,24,186
+22,talal,5,6,run out,8,mustafa,0,2,24,186
+22,kumail,0,3,lbw,9,mustafa,0,2,24,186
+22,rahim,7,4,not out,10,mustafa,0,2,24,186
+22,kabir,1,4,not out,11,mustafa,0,2,24,186
