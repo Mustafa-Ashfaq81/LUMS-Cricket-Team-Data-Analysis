@@ -36,5 +36,5 @@ Run the Jupyter notebooks or Python scripts provided in the repository to perfor
 ## Contributing
 Contributions are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
-## Contact
-Mustafa Ashfaq - Your contact information
+## Author
+Mustafa Ashfaq
