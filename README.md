@@ -4,7 +4,7 @@
 This repository contains the code and findings of a comprehensive data-driven analysis of the LUMS Cricket Team's performance. Through detailed data analysis and machine learning models, we aim to uncover insights that can help in strategic decision-making and improving future performances.
 
 ## Blog Post
-Check out our blog post, "Batting Through Numbers: A Data-Driven Analysis of Cricket," where we dive deep into the methodology, insights, and implications of our analysis. This post offers a narrative on how data can be utilized to enhance sports strategies and player performance.
+Check out our blog post, ["Batting Through Numbers: A Data-Driven Analysis of Cricket,"](https://medium.com/@mustafaaplus52/batting-through-numbers-a-data-driven-analysis-of-cricket-d450423c4fa9) where we dive deep into the methodology, insights, and implications of our analysis. This post offers a narrative on how data can be utilized to enhance sports strategies and player performance.
 
 ## Key Features
 - **Performance Analysis**: Detailed evaluation of team and individual player performances over multiple seasons.
